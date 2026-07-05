@@ -12,7 +12,7 @@ The scene presents two dragon eggs that can be selected and hatched through user
 - implementing sounds and click-based interactions,
 - modifying and testing simple C# scripts.
 
-[View Dragon Hatchery](./Dragon-Hatchery)
+[View Dragon Hatchery](https://github.com/oliwiagiersig/unity-projects-and-models/releases/download/dragon-hatchery-v1.0.0/DragonHatchery_Build_4.zip)
 
 ---
 
