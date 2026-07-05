@@ -26,7 +26,7 @@ A team-based 3D arcade game consisting of three levels.
 - testing level transitions and gameplay reset,
 - working with interactive objects and sound.
 
-[View Matcha Game](./Matcha-Game)
+[View Matcha Game](https://github.com/oliwiagiersig/unity-projects-and-models/releases/download/matcha-game-v1.0.0/Matcha.core.zip)
 
 ---
 
